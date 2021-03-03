@@ -1,0 +1,24 @@
+{
+    "models":{
+        "model1":{
+            "interpreter":"python3",
+            "scriptfile":"/home/gduin/Documentos/DEVS/apiMathModel/src/solver_models/python/model1.py"
+        },
+        "model2":{
+            "interpreter":"python3",
+            "scriptfile":"/home/gduin/Documentos/DEVS/apiMathModel/src/solver_models/python/model2.py"
+        },
+        "model3":{
+            "interpreter":"python3",
+            "scriptfile":"/home/gduin/Documentos/DEVS/apiMathModel/src/solver_models/python/model3.py"
+        },
+        "juliaModel1":{
+            "interpreter":"julia",
+            "scriptfile":"/home/gduin/Documentos/DEVS/apiMathModel/src/solver_models/julia/model2.jl"
+        },
+        "Rmodel1":{
+            "interpreter":"Rscript",
+            "scriptfile":"/home/gduin/Documentos/DEVS/apiMathModel/src/solver_models/r/model1.r"
+        }
+    }
+}

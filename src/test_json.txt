@@ -1,0 +1,21 @@
+
+
+
+{
+    "LanguageName":"python3",
+    "Name":"/home/gduin/Documentos/DEVS/apiMathModel/src/solvers_models/python/model2.py",
+    "Arg0": "",
+    "Arg1": "-D",
+    "Data1": "{ \\\"data\\\":[1, 2, 3, 3, 2, 1]}"
+}
+   
+
+
+{
+    "LanguageName":"python3",
+    "Name":"/home/gduin/Documentos/DEVS/apiMathModel/src/solvers_models/python/model1.py",
+    "Arg0": "",
+    "Arg1": "-D",
+    "Data1": "{\\\"col1\\\":{\\\"row1\\\":1,\\\"row2\\\":2,\\\"row3\\\":3},\\\"col2\\\":{\\\"row1\\\":\\\"x\\\",\\\"row2\\\":\\\"y\\\",\\\"row3\\\":\\\"z\\\"}}"
+}
+   
